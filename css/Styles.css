@@ -1,0 +1,18 @@
+.top {
+    color: #0B10FF;
+	font-family: "Arial";
+	font-weight: bold;
+}
+
+.my-container {
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    Border: 5px solid #748E2C;
+}
+
+#dummy {
+	font-weight: bold;
+}
+
