@@ -3,19 +3,19 @@
 #my-id {     
 	background-image: url("../images/Sunsetbanner.jpg"); 
 	background-size: 1920px;
-	padding-bottom: 5%
+	padding-bottom: 5%;
 }  
 
 .pagemargin {
 	margin-left: auto;
 	margin-right: auto;
-	width: 80%
+	width: 80%;
 }
 
 .top {
     color: #FFFFFF;
-	font-family: 'roboto', sans-sertif;
-	font-size: 50px
+	font-family: 'roboto';
+	font-size: 50px;
 }
 
 .my-container {
@@ -32,5 +32,5 @@
 }
 
 #picture1 {
-  width: 500px
+  width: 500px;
 }
