@@ -1,7 +1,21 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+#my-id {     
+	background-image: url("../images/Sunsetbanner.jpg"); 
+	background-size: 1920px;
+	padding-bottom: 5%
+}  
+
+.pagemargin {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%
+}
+
 .top {
-    color: #0B10FF;
-	font-family: "Arial";
-	font-weight: bold;
+    color: #FFFFFF;
+	font-family: 'roboto', sans-sertif;
+	font-size: 50px
 }
 
 .my-container {
@@ -10,10 +24,11 @@
     padding-left: 50px;
     padding-bottom: 20px;
     border: 5px solid #748E2C;
+	font-family: 'Roboto', sans-serif;
 }
 
 #dummy {
-	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
 }
 
 #picture1 {
