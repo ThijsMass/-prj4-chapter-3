@@ -3,7 +3,7 @@
 #my-id {     
 	background-image: url("../images/Sunsetbanner.jpg"); 
 	background-size: 1920px;
-	padding-bottom: 5%;
+	padding-bottom: 2%;
 }  
 
 .pagemargin {
@@ -15,7 +15,9 @@
 .top {
     color: #FFFFFF;
 	font-family: 'roboto';
-	font-size: 50px;
+	font-size: 100px;
+	padding-left: 10%;
+	padding-top: 20px;
 }
 
 .my-container {
